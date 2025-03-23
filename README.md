@@ -6,7 +6,7 @@ Welcome to my personal portfolio repository! This project showcases my skills an
 
 I am a passionate frontend developer from India with experience in building dynamic and scalable web applications. Currently, I am working on E-commerce and Banking applications. I am also learning Java and Data Structures & Algorithms in Python.
 
-- **Portfolio Website:** [https://rooptejaportfolio.netlify.app/](https://rooptejaportfolio.netlify.app/)
+- **Portfolio Website:** [https://rooptejawebpage.netlify.app/](https://rooptejawebpage.netlify.app/)
 - **GitHub Profile:** [https://github.com/RoopTeja04/my_portfolio.git](https://github.com/RoopTeja04/my_portfolio.git)
 
 ## Technologies Used
